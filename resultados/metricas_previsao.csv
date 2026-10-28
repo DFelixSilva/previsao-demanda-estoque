@@ -1,0 +1,4 @@
+modelo,WAPE_%,MAE,Viés_%
+Ingênuo sazonal (lag 7),22.0,9.54,-1.3
+Média móvel 28 dias,18.6,8.07,-4.2
+Gradient Boosting,13.4,5.81,-3.8

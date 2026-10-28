@@ -1,0 +1,16 @@
+sku,modelo,WAPE_%,MAE,Viés_%
+SKU-001 Ração Premium 10kg,Ingênuo sazonal (lag 7),18.1,9.8,-2.7
+SKU-001 Ração Premium 10kg,Média móvel 28 dias,17.2,9.29,-6.0
+SKU-001 Ração Premium 10kg,Gradient Boosting,12.7,6.85,-5.5
+SKU-002 Areia Higiênica 4kg,Ingênuo sazonal (lag 7),18.9,14.39,-0.5
+SKU-002 Areia Higiênica 4kg,Média móvel 28 dias,17.1,13.01,-1.9
+SKU-002 Areia Higiênica 4kg,Gradient Boosting,10.3,7.79,-3.0
+SKU-003 Antipulgas 3un,Ingênuo sazonal (lag 7),33.3,8.31,-3.4
+SKU-003 Antipulgas 3un,Média móvel 28 dias,24.5,6.13,-11.9
+SKU-003 Antipulgas 3un,Gradient Boosting,19.2,4.79,-3.9
+SKU-004 Petisco Dental,Ingênuo sazonal (lag 7),23.6,11.88,-0.2
+SKU-004 Petisco Dental,Média móvel 28 dias,17.9,9.02,-1.7
+SKU-004 Petisco Dental,Gradient Boosting,13.7,6.9,-3.2
+SKU-005 Shampoo Neutro 500ml,Ingênuo sazonal (lag 7),29.9,3.34,-0.8
+SKU-005 Shampoo Neutro 500ml,Média móvel 28 dias,25.9,2.9,-5.4
+SKU-005 Shampoo Neutro 500ml,Gradient Boosting,24.3,2.72,-3.6

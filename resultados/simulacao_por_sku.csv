@@ -1,0 +1,16 @@
+sku,politica,parametro,fill_rate_%,dias_com_ruptura,unidades_perdidas,estoque_medio_un,pedidos,capital_em_estoque_R$,venda_perdida_custo_R$
+SKU-001 Ração Premium 10kg,Regra atual (folga fixa 20%),folga = 1.2,100.0,0,0,230.7,17,27684.0,0.0
+SKU-001 Ração Premium 10kg,Regra atual calibrada,folga = 1.2,100.0,0,0,230.7,17,27684.0,0.0
+SKU-001 Ração Premium 10kg,Por previsão calibrada,z = 1.05,99.94,1,4,218.2,16,26184.0,480.0
+SKU-002 Areia Higiênica 4kg,Regra atual (folga fixa 20%),folga = 1.2,99.87,1,11,320.4,16,8010.0,275.0
+SKU-002 Areia Higiênica 4kg,Regra atual calibrada,folga = 1.2,99.87,1,11,320.4,16,8010.0,275.0
+SKU-002 Areia Higiênica 4kg,Por previsão calibrada,z = -0.35,99.52,3,43,282.5,16,7062.0,1075.0
+SKU-003 Antipulgas 3un,Regra atual (folga fixa 20%),folga = 1.2,95.94,6,121,92.3,18,8307.0,10890.0
+SKU-003 Antipulgas 3un,Regra atual calibrada,folga = 1.5,99.55,2,13,128.6,20,11574.0,1170.0
+SKU-003 Antipulgas 3un,Por previsão calibrada,z = 2.85,99.52,2,14,113.9,17,10251.0,1260.0
+SKU-004 Petisco Dental,Regra atual (folga fixa 20%),folga = 1.2,99.91,1,5,227.5,16,3412.0,75.0
+SKU-004 Petisco Dental,Regra atual calibrada,folga = 1.1,99.59,2,24,202.8,16,3042.0,360.0
+SKU-004 Petisco Dental,Por previsão calibrada,z = -0.05,99.53,4,28,188.3,16,2824.0,420.0
+SKU-005 Shampoo Neutro 500ml,Regra atual (folga fixa 20%),folga = 1.2,96.92,7,41,48.2,17,1060.0,902.0
+SKU-005 Shampoo Neutro 500ml,Regra atual calibrada,folga = 1.35,100.0,0,0,56.4,18,1241.0,0.0
+SKU-005 Shampoo Neutro 500ml,Por previsão calibrada,z = 1.8,99.53,1,6,54.4,17,1197.0,132.0

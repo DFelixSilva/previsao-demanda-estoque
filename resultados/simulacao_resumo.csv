@@ -1,0 +1,4 @@
+politica,fill_rate_%,unidades_perdidas,dias_com_ruptura,capital_em_estoque_R$,venda_perdida_custo_R$,pedidos
+Regra atual (folga fixa 20%),99.32,178,15,48473.0,12142.0,84
+Regra atual calibrada,99.82,48,5,51551.0,1805.0,87
+Por previsão calibrada,99.63,95,11,47518.0,3367.0,82
